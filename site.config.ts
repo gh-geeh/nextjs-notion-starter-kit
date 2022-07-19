@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'FFOU',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Wait Wait Wait...',
 
   // social usernames (optional)
   twitter: 'none',
-  github: 'none',
+  github: 'transitive-bullshit',
   linkedin: 'none',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
